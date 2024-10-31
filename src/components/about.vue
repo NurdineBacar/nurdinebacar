@@ -3,7 +3,7 @@
     <div class="row g-1 text-white">
       <h2 class="display-6 fw-semibold text-center mb-3" id="about">About</h2>
       <div class="col-md-5">
-        <img src="/img/men.png" class="rounded  w-75" alt=""
+        <img src="../assets/img/men.png" class="rounded  w-75" alt=""
         />
       </div>
       <div class="col-md me-3">
