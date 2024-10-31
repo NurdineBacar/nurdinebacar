@@ -2,10 +2,10 @@
   <div class="">
     <navbar/>
     <banner/>
-    <about/>
-    <service/>
-    <skills/>
-    <contact/>
+    <about id="sobre"/>
+    <service id="servico"/>
+    <skills id="skills"/>
+    <contact id="contacto"/>
   </div>
 </template>
 

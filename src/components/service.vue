@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid pt-4 pb-5 px-5" id="service">
+  <div class="container-fluid pt-4 pb-5 px-5 service">
     <div class="row text-white">
       <h2 class="display-6 fw-semibold text-center">Serviços</h2>
       <span class="text-center text-secondary mb-5">- Meus serviços para clientes -</span>
@@ -63,7 +63,7 @@ export default {
 </script>
 
 <style scoped>
-#service {
+.service {
   background: black;
 }
 

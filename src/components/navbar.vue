@@ -2,10 +2,10 @@
   <nav class="d-flex align-items-center justify-content-between py-4 px-4">
     <a href="#"><img src="../assets/img/Nur.1.png" width="130px" alt="" /></a>
     <ul class="fw-semibold nav-item-1">
-      <li><a href="">Sobre</a></li>
-      <li><a href="">Serviços</a></li>
-      <li><a href="">Habilidades</a></li>
-      <li><a href="">Contato</a></li>
+      <li><a href="#sobre">Sobre</a></li>
+      <li><a href="#servico">Serviços</a></li>
+      <li><a href="#skills">Habilidades</a></li>
+      <li><a href="#contacto">Contacto</a></li>
     </ul>
     <div class="nav-item-2">
       <button class="btn btn-outline-secondary hamburguer text-white bt-canva" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling">
@@ -26,10 +26,10 @@
         ></button>
       </div>
       <div class="offcanvas-body">
-        <p><a href="#about">Sobre</a></p>
-        <p><a href="#service">Serviços</a></p>
+        <p><a href="#sobre">Sobre</a></p>
+        <p><a href="#servico">Serviços</a></p>
         <p><a href="#skills">Habilidades</a></p>
-        <p><a href="#contact">Contato</a></p>
+        <p><a href="#contacto">Contato</a></p>
       </div>
     </div>
   </nav>

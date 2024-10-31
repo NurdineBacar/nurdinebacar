@@ -45,5 +45,9 @@ img{
     left: 55px;
     top: 120px;
   }
+
+  #banner{
+    background: black;
+  }
 }
 </style>

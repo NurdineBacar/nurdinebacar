@@ -1,5 +1,5 @@
 <template>
-    <div class="container-fluid bg-dark pt-4 pb-3 px-5">
+    <div class="container-fluid bg-dark pt-4 pb-3 px-5" id="box">
       <div class="row text-white px-4">
         <h2 class="display-6 fw-semibold text-center mb-4" id="skills">Habilidades</h2>
   
@@ -77,6 +77,10 @@
       .box-item:hover {
           border-color: gray;
           box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+      }
+
+      #box{
+        background: black;
       }
   </style>
   
