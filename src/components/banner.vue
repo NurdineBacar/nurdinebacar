@@ -22,7 +22,7 @@ export default {
 
 <style scoped>
 #banner {
-  background: url("/img/banner-3.png") no-repeat;
+  background: url("../assets/img/banner-3.png") no-repeat;
   background-size: cover;
   height: 100vh;
   margin-top: -94px;
