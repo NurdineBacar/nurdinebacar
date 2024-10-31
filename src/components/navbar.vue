@@ -1,6 +1,6 @@
 <template>
   <nav class="d-flex align-items-center justify-content-between py-4 px-4">
-    <a href="#"><img src="/img/Nur.1.png" width="130px" alt="" /></a>
+    <a href="#"><img src="../assets/img/Nur.1.png" width="130px" alt="" /></a>
     <ul class="fw-semibold nav-item-1">
       <li><a href="">Sobre</a></li>
       <li><a href="">Serviços</a></li>

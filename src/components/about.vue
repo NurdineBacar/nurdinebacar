@@ -3,7 +3,7 @@
     <div class="row g-1 text-white">
       <h2 class="display-6 fw-semibold text-center mb-3" id="about">Sobre</h2>
       <div class="col-md-5">
-        <img src="/img/men.png" class="rounded w-75" alt="Imagem de Nurdine" />
+        <img src="../assets/img/profile.png" class="rounded-circle" alt="Imagem de Nurdine" />
       </div>
       <div class="col-md me-3">
         <div class="row fs-6">
@@ -78,9 +78,15 @@ ul li a:hover {
   padding-left: 8px;
 }
 
+img{
+  width: 60%;
+  height: 70%;
+  margin-left: 50px;
+}
+
 @media(max-width:420px) {
   img {
-    margin-left: 45px;
+    margin-left: 48px;
   }
 
   p {

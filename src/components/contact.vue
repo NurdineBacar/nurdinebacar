@@ -39,7 +39,7 @@
       <hr class="w-100 mx-center" />
       <div class="row px-5 text-center">
         <div class="col-md-4 mb-1">
-          <a href="#"><img src="/img/Nur.1.png" width="130px" alt="" /></a>
+          <a href="#"><img src="../assets/img/Nur.1.png" width="130px" alt="" /></a>
         </div>
         <div class="col-md-4"></div>
         <div class="col-md-4 text-center align-items-center">

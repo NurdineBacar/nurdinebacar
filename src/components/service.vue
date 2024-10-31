@@ -6,7 +6,7 @@
       <div class="col-md item-service bg-dark py-3 me-3 mb-3">
         <div class="row">
           <div>
-            <img src="/img/pc.png" width="70px" class="img-service my-3" alt=""/>
+            <img src="../assets/img/pc.png" width="70px" class="img-service my-3" alt=""/>
           </div>
           <h3 class="text-center text-white fw-semibold display-6 fs-6 mb-3">
             DESENVOLVEDOR DE APLICATIVOS DESKTOP
@@ -19,7 +19,7 @@
       <div class="col-md item-service bg-dark py-3 me-3 mb-3">
         <div class="row">
           <div>
-            <img src="/img/dominio.png" width="70px" class="img-service my-3" alt=""/>
+            <img src="../assets/img/dominio.png" width="70px" class="img-service my-3" alt=""/>
           </div>
           <h3 class="text-center text-white fw-semibold display-6 fs-6 mb-3">
             DESENVOLVEDOR WEB
@@ -32,7 +32,7 @@
       <div class="col-md item-service bg-dark py-3 mb-3">
         <div class="row">
           <div>
-            <img src="/img/web-design.png" width="70px" class="img-service my-3" alt=""/>
+            <img src="../assets/img/web-design.png" width="70px" class="img-service my-3" alt=""/>
           </div>
           <h3 class="text-center text-white fw-semibold display-6 fs-6 mb-3">
             DESIGN WEB
